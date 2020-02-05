@@ -1,7 +1,9 @@
 
 # Project Structure
 
-1. You should have the following structure
+1. Clone this repo or create the following structure
+
+    ![]()
 
 1. Create a file **package.json** at the root level
 

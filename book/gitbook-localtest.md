@@ -1,4 +1,4 @@
-## Test your Gitbook locally
+# Test your Gitbook locally
 
 
 1. First, run yarn to install node_modules
