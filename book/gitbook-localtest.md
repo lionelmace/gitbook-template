@@ -14,3 +14,7 @@
     ````
 
     It creates a folder _book.
+
+1. Open the static `index.html` file under the folder _book
+
+    ![](./images/vscode-browser.png)
