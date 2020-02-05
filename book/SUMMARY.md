@@ -2,4 +2,4 @@
 
 ## Introduction
 
-* [Prerequisites](tests.md)
+* [Integration with Travis Pipeline](travis.md)
