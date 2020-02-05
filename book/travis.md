@@ -1,24 +1,13 @@
 ## Integration with Travis Pipeline
 
-1. Create a file **travis.yml** at the root level
+1. Go to the **Setting** on your profile in  [Travis CI](https://travis-ci.org/account/repositories)
 
-    ```
-    language: node_js
-    dist: trusty
-    sudo: required
+1. Hit **Sync account** if you do not see the repo in the list
 
-    node_js:
-    - "6.9.1"
+1. Activate the repo
 
-    script:
-    - ./publish.sh
+    ![](./images/travis-sync.png)
 
-    deploy:
-    - provider: pages
-    local-dir: _book
-    skip-cleanup: true
-    github-token: $GITHUB_TOKEN
-    keep_history: true
-    on:
-        branch: master
-    ```
+1. Go to the **Settings** of the project and add the environment variable `GITHUB_TOKEN`
+
+    ![](./images/travis-githubtoken.png)
