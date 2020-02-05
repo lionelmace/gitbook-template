@@ -5,3 +5,5 @@
 1. Enable GitHub Pages
 
     ![](./images/github-pages.png)
+
+1. You can go to the published website after 15–20 seconds.

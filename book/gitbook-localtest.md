@@ -1,12 +1,13 @@
 ## Test your Gitbook locally
 
-1. Built the node modules
+
+1. First, run yarn to install node_modules
 
     ```sh
-    npm install
+    yarn
     ```
 
-1. Run the gitbook
+1. Next, run ./publish.sh
 
     ```sh
     ./publish.sh
