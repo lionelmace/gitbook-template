@@ -11,7 +11,7 @@
 
     ```sh
     ./publish.sh
-    ````
+    ```
 
     It creates a folder _book.
 
