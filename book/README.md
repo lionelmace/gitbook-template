@@ -1,6 +1,6 @@
 # Introduction
 
-## 
+## Test
 
 1. Scroll down to GitHub Pages section and select master branch (or gh-pages branch) https://github.com/lionelmace/openshift101/settings
 

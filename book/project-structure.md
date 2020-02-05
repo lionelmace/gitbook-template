@@ -1,5 +1,5 @@
 
-## Project Structure
+# Project Structure
 
 1. You should have the following structure
 

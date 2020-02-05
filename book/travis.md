@@ -1,4 +1,4 @@
-## Integration with Travis Pipeline
+# Integration with Travis Pipeline
 
 1. Go to the **Setting** on your profile in  [Travis CI](https://travis-ci.org/account/repositories)
 

@@ -1,4 +1,4 @@
-## Integration with Github
+# Integration with Github
 
 1. Go to the **Settings** in the Github repo
 
