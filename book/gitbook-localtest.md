@@ -15,6 +15,15 @@
 
     It creates a folder _book.
 
+    > If you get an error similar to this *ENOSYS: function not implemented, symlink '../../../mkdirp/bin/cmd.js*
+    Run the command `yarn --no-bin-links`
+
 1. Open the static `index.html` file under the folder _book
 
     ![](./images/vscode-browser.png)
+
+1. Once you're satisfied, push the content on your remote repo
+
+    ```
+    git push
+    ```
