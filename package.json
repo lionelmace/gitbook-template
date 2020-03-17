@@ -7,11 +7,7 @@
   "license": "Apache-2.0",
   "devDependencies": {},
   "dependencies": {
-    "@hapi/cryptiles": "5.0.0",
-    "gitbook-cli": "2.3.2",
-    "@hapi/hoek": "9.0.4",
-    "minimist": "^1.2.5",
-    "tunnel-agent": "^0.6.0"
+    "gitbook-cli": "2.3.2"
   },
   "engines": {
     "node": ">= 6.17.1"
