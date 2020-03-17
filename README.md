@@ -1,0 +1,1 @@
+This tutorial describes the steps to create a Gitbook from a Github repository.

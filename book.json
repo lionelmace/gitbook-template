@@ -1,6 +1,6 @@
 {
     "root": "book",
-    "title": "Gitbook template",
+    "title": "Gitbook Tutorial",
     "pluginsConfig": {
       "theme-default": {
         "showLevel": true
@@ -15,7 +15,7 @@
         ]
       },
       "webheader": {
-        "headerTitle" : "Gitbook Template"
+        "headerTitle" : "Gitbook Tutorial"
       }
     },
     "plugins": [
