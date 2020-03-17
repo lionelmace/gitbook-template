@@ -1,6 +1,6 @@
 # Integration with Travis Pipeline
 
-1. Go to the **Setting** on your profile in  [Travis CI](https://travis-ci.org/account/repositories)
+1. Go to the **Settings** on your profile in [https://travis-ci.org/account/repositories](https://travis-ci.org/account/repositories)
 
 1. Hit **Sync account** if you do not see the repo in the list
 
