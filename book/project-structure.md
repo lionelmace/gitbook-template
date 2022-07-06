@@ -45,6 +45,12 @@
     ./node_modules/.bin/gitbook build
     ```
 
+1. Make this publish.sh file executable to run in Travis
+
+    ```sh
+    chmod +x publish.sh
+    ```
+
 1. Create a file **book.json** at the root level
 
     ```json
