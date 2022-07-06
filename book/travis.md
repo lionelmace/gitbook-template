@@ -6,8 +6,8 @@
 
 1. Activate the repo
 
-    ![](./images/travis-sync.png)
+    ![travis sync](./images/travis-sync.png)
 
 1. Go to the **Settings** of the project and add the environment variable `GITHUB_TOKEN`
 
-    ![](./images/travis-githubtoken.png)
+    ![travis token](./images/travis-githubtoken.png)
